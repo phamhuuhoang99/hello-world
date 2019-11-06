@@ -1,0 +1,4 @@
+D1: 25/12/2014 ;  D2: 3/4/2016
+- Khoang cach giua Date2 va Date1 la: 465
+- D1 sau khi them 10 ngay la: 4/1/2015
+- D2 sau khi tang 1 ngay la: 4/4/2016

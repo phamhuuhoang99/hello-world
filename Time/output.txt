@@ -1,0 +1,14 @@
+- Thoi gian T1 la: 5 : 34 : 55
+- Thoi gian T2 la: 2 : 55 : 59
+
+=============KET QUA==============
+
+- Tong cua T1 va T2 la: 8 : 30 : 54
+- Hieu cua T1 va T2 la: 2 : 38 : 56
+- Tong cua T1 va 324 giay la: 5 : 40 : 19
+- Hieu cua T1 va 55 giay la: 5 : 34 : 0
+--> T1 lon hon T2!!!
+--> T1 lon hon hoac bang T2!!!
+--> T1 khac T2!!!
+- T1 sau khi tang 1 giay la: 5 : 34 : 56
+- T1 sau khi giam 1 giay la:5 : 34 : 54

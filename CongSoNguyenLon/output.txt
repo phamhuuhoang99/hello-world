@@ -1,0 +1,5 @@
+Nhap so lon thu 1: 132214214
+Nhap so lon thu 2: 1231314
+Tong 2 so: 133445528
+Tich 2 so: 162797212697196
+Hieu 2 so lon: 130982900

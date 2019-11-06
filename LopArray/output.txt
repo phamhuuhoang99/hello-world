@@ -1,0 +1,6 @@
+Array A: size: 5 index: 4 6 1 7 8 
+a[1] =6
+Array B: size: 6 index: 4 6 1 7 8 10 
+======================================
+So Sanh 2 Array 
+A khong bang B!!

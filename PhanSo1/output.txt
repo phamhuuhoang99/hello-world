@@ -1,0 +1,24 @@
+
+==========================
+Phan so thu nhat: P1=3 / 2
+
+==========================
+
+Phan so thu hai: P2=0
+
+==========================
+
+Phan so thu ba: P3=23 / 9
+
+==========================
+
+Phan so tong cua P1 va P2 la: 3 / 2
+
+==========================
+
+Phan so hieu cua P1 va P2 la: 3 / 2
+
+==========================
+
+Phan so tich cua P1 va P2 la: 0
+Khong thuc hien duoc phep chia!

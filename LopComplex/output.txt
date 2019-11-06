@@ -1,0 +1,4 @@
+So phuc 1: 4+3i
+So phuc 2: 6+5i
+Tich 2 so phuc : 9+38i
+Tong 2 so phuc: 10+8i
